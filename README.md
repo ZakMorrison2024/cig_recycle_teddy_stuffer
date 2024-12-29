@@ -1,7 +1,7 @@
 # cig_recycle_teddy_stuffer
 ### saw it on the internet, wanna automate, just an idea atm
 - pay homeless or people on no income with profits
-- buy cheap teddy cases from *Trump* CHINA *Trump*
+- buy cheap teddy cases from ***Trump*** "CHINA" ***Trump***
 - Build seperate vending machines for intake and sell
 
 
