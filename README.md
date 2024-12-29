@@ -14,18 +14,18 @@
 - Output: The fluff is bagged and stored or fed into a separate assembly line for final use in stuffed toys.
 
 # Detail:
-###1. Collection System (Input Stage)
+### 1. Collection System (Input Stage)
 Input Compartment: A secure, easy-to-use compartment where cigarette butts can be deposited. It should be accessible for individuals, likely through a funnel or slot. The compartment could have a lock to prevent misuse and maintain hygiene.
 Size & Capacity: Around 10-15 liters for the compartment to store collected butts.
 Recognition System: A sensor (optical or weight-based) could track how many cigarette butts are deposited, ensuring proper pay for recyclers.
 
-###2. Segmentation & Sorting System (Initial Processing)
+### 2. Segmentation & Sorting System (Initial Processing)
 Sifting and Filtering: After the butts are collected, a basic conveyor system transports them into a sifting mechanism that separates out unwanted particles (tobacco, ash, etc.).
 Vibration or Airflow: Vibration or airflow could help separate the lighter tobacco material from the filters.
 Mechanical Separation: The machine could use rotating brushes or paddles to break up clumps of tobacco and keep the filters separate.
 Sensors: A simple vision sensor could ensure only the filter section of the cigarette is being processed.
 
-###3. Cleaning System (Main Processing)
+### 3. Cleaning System (Main Processing)
 
 - Washing Mechanism: A specialized cleaning section to remove any residues, including nicotine and chemicals.
 Water-Based Cleaning: The filters are submerged in a washing chamber where they are cleaned with water and a mild, biodegradable cleaning solution.
@@ -36,13 +36,13 @@ Drying: After cleaning, the filters need to be dried completely.
 - Air Drying or Heated Drying: A combination of airflow and mild heat could dry the filters quickly without compromising their material properties.
 UV Sterilization: Optional but effective sterilization process using UV light to ensure the cleanliness of the filters after washing.
 
-###4. Fluffing & Repurposing Stage (Final Processing)
+### 4. Fluffing & Repurposing Stage (Final Processing)
 Fluffing: Once the cigarette filters are dry, they need to be shredded or fluffed to resemble stuffing material.
 Shredding Machine: A rotary or blade-based shredder could be used to break the filters into fine, soft fibers.
 Pressing: The fibers could be lightly compressed and mixed to ensure even fluffing, resulting in soft, plush material for stuffing.
 Packaging & Output: The recycled stuffing material could be either bagged for storage or automatically fed into a device that packs it into the stuffing bags, ready for use in teddy bears.
 
-###5. Additional Features (Optional)
+### 5. Additional Features (Optional)
 Filtration and Quality Control: Add a final filtration system before fluffing to ensure that no harmful chemicals remain in the processed material. Sensors could also test the consistency and cleanliness of the final fluff, rejecting any filters that don't meet quality standards.
 
 - Mobile App Interface: If you want to track data (e.g., how many butts have been collected, how much has been recycled, etc.), you could integrate a mobile app that syncs with the machine.
