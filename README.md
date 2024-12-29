@@ -1,8 +1,11 @@
 # cig_recycle_teddy_stuffer
 ### saw it on the internet, wanna automate, just an idea atm
+- pay homeless or people on no income with profits
+- buy cheap teddy cases from *Trump* CHINA *Trump*
+- Build seperate vending machines for intake and sell
 
 
-Overall System Flow
+# Overall System Flow:
 - Collection: Cigarette butts are deposited into the collection compartment.
 - Sorting: Unwanted tobacco and ash are separated using vibration or airflow.
 - Cleaning: The butts are washed with water and ultrasonic waves to remove harmful chemicals.
@@ -10,7 +13,7 @@ Overall System Flow
 - Fluffing: The filters are shredded and fluffed into soft material for stuffing.
 - Output: The fluff is bagged and stored or fed into a separate assembly line for final use in stuffed toys.
 
-
+# Detail:
 ###1. Collection System (Input Stage)
 Input Compartment: A secure, easy-to-use compartment where cigarette butts can be deposited. It should be accessible for individuals, likely through a funnel or slot. The compartment could have a lock to prevent misuse and maintain hygiene.
 Size & Capacity: Around 10-15 liters for the compartment to store collected butts.
